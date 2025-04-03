@@ -34,4 +34,4 @@ function Footer(){
             </div>
         </footer>
     )
-} export default footer
+} export default Footer

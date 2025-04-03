@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 //개별 상품을 표시하는 컴포넌트
 
 function ProductItem({product, addToCart}) {
